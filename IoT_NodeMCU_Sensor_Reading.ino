@@ -10,8 +10,8 @@ char auth[] = "5hCxuUEHJ_v8VC7OuJfyBbG_8n7VcS4y";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Design_Studio";
-char pass[] = "vascsc2018";
+char ssid[] = "Design_Lab";
+char pass[] = "abc2018";
 
 BlynkTimer timer;
 
