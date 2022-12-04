@@ -1,13 +1,3 @@
-// https://howtomechatronics.com/tutorials/arduino/dht11-dht22-sensors-temperature-and-humidity-tutorial-using-arduino/
-/*  DHT11/ DHT22 Sensor Temperature and Humidity Tutorial
- *  Program made by Dejan Nedelkovski,
- *  www.HowToMechatronics.com 
- */
-/*
- * You can find the DHT Library from Arduino official website
- * https://playground.arduino.cc/Main/DHTLib
- */
- 
 #include <dht.h>
 #define dataPin A0 // Defines pin number to which the sensor is connected
 dht DHT; // Creats a DHT object 
