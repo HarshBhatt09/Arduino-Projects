@@ -16,9 +16,9 @@ char auth[] = "3SJ6uAANMwXgTxmQbRGER6w9hBJceMRm";
  
 // Set password to "" for open networks.
  
-char ssid[] = "Design_Studio";
+char ssid[] = "Design_Lab";
  
-char pass[] = "vascsc2018";
+char pass[] = "abc2018";
  
  
 void setup()
